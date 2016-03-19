@@ -1,0 +1,170 @@
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.pdb
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ZedGraph.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ZedGraph.xml
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\Interop.isAnalogLibrary.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\Interop.isAnalogLibrary.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.ResolveComReference.cache
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Form1.resources
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Properties.Resources.resources
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.GenerateResource.Cache
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.exe
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.pdb
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.PayloadControls.PayloadControls.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csprojResolveAssemblyReference.cache
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\OpenTK.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\OpenTK.GLControl.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\SharpGL.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\OpenTK.xml
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\OpenTK.GLControl.xml
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\Interop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\AxInterop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\Interop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\Interop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\Interop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.ResolveComReference.cache
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.exe
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.pdb
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csprojResolveAssemblyReference.cache
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Form1.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.PayloadControls.PayloadControls.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Properties.Resources.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.GenerateResource.Cache
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe.config
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.pdb
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ZedGraph.xml
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\Interop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\Interop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2010\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\AxInterop.isDigitalLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe.config
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.ResolveComReference.cache
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.exe
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.pdb
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.pdb
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ZedGraph.xml
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csprojResolveAssemblyReference.cache
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Form1.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Properties.Resources.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.GenerateResource.Cache
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.tes.Resource1.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\Interop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\Interop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GMap.NET.Core.dll
+C:\Users\cucueinstein\Documents\Visual Studio 2008\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GMap.NET.WindowsForms.dll
+D:\GUI_PAYLOAD\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe.config
+D:\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\Interop.isAnalogLibrary.dll
+D:\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+D:\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.ResolveComReference.cache
+D:\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.exe
+D:\GUI_PAYLOAD\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.pdb
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe.config
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\Interop.isAnalogLibrary.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.ResolveComReference.cache
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.exe
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.pdb
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.pdb
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GMap.NET.Core.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GMap.NET.WindowsForms.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\ZedGraph.xml
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\de\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\es\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\fr\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\hu\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\it\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\ja\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\pt\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\ru\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\sk\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\sv\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\tr\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\Interop.isAnalogLibrary.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\AxInterop.isAnalogLibrary.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csprojResolveAssemblyReference.cache
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Form1.resources
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Properties.Resources.resources
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.tes.Resource1.resources
+D:\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.GenerateResource.Cache
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\AquaGauge.dll
+D:\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\LBIndustrialCtrls.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe.config
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.ResolveComReference.cache
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.exe
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.pdb
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.exe
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GUI_PAYLOAD.pdb
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GMap.NET.Core.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\GMap.NET.WindowsForms.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\ZedGraph.xml
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\de\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\es\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\fr\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\hu\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\it\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\ja\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\pt\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\ru\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\sk\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\sv\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\tr\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\bin\Debug\AxInterop.isAnalogLibrary.dll
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csprojResolveAssemblyReference.cache
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Form1.resources
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.Properties.Resources.resources
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.tes.Resource1.resources
+D:\FINAL DOCUMENT & RISET (berdasarkan tanggal target)\GUI_KOMBAT\GUI_PAYLOAD\obj\x86\Debug\GUI_PAYLOAD.csproj.GenerateResource.Cache

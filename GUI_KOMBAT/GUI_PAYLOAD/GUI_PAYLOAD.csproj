@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A76D6D12-BB62-4D59-B730-0D7DA517BB03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI_PAYLOAD</RootNamespace>
+    <AssemblyName>GUI_PAYLOAD</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AquaGauge">
+      <HintPath>C:\Users\lenovo\Desktop\AquaGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.6.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LBIndustrialCtrls">
+      <HintPath>C:\Users\lenovo\Desktop\LBIndustrialCtrls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="SharpGL, Version=2.0.0.0, Culture=neutral, PublicKeyToken=27fc851303210b27, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SharpGL.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpGL.SceneGraph, Version=1.0.0.0, Culture=neutral, PublicKeyToken=27fc851303210b27, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SharpGL.SceneGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpGL.Serialization, Version=1.0.0.0, Culture=neutral, PublicKeyToken=27fc851303210b27, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SharpGL.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpGL.WinForms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=27fc851303210b27, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SharpGL.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpGL.WPF, Version=2.0.0.0, Culture=neutral, PublicKeyToken=27fc851303210b27, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SharpGL.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\..\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommunicationManager.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tes\altitude_meter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\artifical_horizont.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\CheckBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\gps_indicator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\GUIControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\heading_indicator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\indicator_lamp.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\InstrumentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\motors_control.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\rc_expo_control.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\rc_input_control.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="tes\throttle_expo_control.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\TurnCoordinatorInstrumentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\VerticalSpeedIndicatorInstrumentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tes\vertical_speed_meter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="tes\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_direction1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_left_led_green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_left_led_red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_right_led_green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_right_led_red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_sat_green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_sat_red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeadingIndicator_Aircraft1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeadingIndicator_Background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeadingWeel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_green_off1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_green_on1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_red_off1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_red_on1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rc_control1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rcexpo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01_05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\APM_airframes_001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\APM_airframes_002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connects.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_connect_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_disconnect_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_flightdata_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_flightplan_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_help_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_initialsetup_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_simulation_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_terminal_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_tuningconfig_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disconnects.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\firmware.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flightdata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconWarning48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_connect_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_disconnect_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_flightdata_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_flightplan_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_help_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_initialsetup_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_simulation_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_terminal_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_tuningconfig_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new frames-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airplane.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AirSpeedIndicator_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AirSpeedNeedle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bandeau_Dérouleur.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar_background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bicopter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_legend.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\del_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disconnect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fw.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gimbal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_direction.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_left_led_green.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_left_led_red.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_right_led_green.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_right_led_red.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_sat_green.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gps_sat_red.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeadingIndicator_Aircraft.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeadingIndicator_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeadingWeel.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli_90.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli_120.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hex6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hex6x.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_empty_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_GroundSky.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_green_off.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_green_on.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_red_off.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_red_on.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indicator_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\load_from_file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logbrowser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LongNeedleAltimeter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maquette_Avion.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motors_background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octo8coax.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octo8p.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octo8x.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pitch.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\poshold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\poshold_unlim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quadp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quadx.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rc_control.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rcexpo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\read_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\read_settings1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roll.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sensor_pane.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SmallNeedleAltimeter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start_log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toggle_off.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toggle_on.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tri.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ttest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TurnCoordinator_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TurnCoordinatorAircraft.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TurnCoordinatorBall.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TurnCoordinatorMarks.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VerticalSpeedNeedle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vtail.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard-1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard-2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard-3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard-4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard-5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard-6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wpicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\write_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\write_to_file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airplane1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bicopter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fw1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gimbal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli_901.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli_1201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hex6x1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hex61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_empty_Background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_GroundSky1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maquette_Avion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octo8coax1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octo8p1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octo8x1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pitch1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quadp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quadx1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roll1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sensor_pane1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toggle_off1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toggle_on1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tri1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vtail1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Altimeter_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VerticalSpeedIndicator_Background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01_03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_airplane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_bi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_fwing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_heli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_hex6p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_hex6x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_octoflatx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_octop8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_octox8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_oktoflatp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_poi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_quadp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_quadx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_tri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_vtail4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_y4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_y6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\missionplannerlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\missionplannerlogodark.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
